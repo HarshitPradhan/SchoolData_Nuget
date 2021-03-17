@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Storing data about students, teachers, and subjects using structs. The application will allow the addition of data and then returning all the data as string output.</Description>
+  </PropertyGroup>
+
+</Project>
